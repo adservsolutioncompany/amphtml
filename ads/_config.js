@@ -246,9 +246,7 @@ const adConfig = jsonConfiguration({
 
   'adverticum': {},
 
-  'advertserve': {
-    renderStartImplemented: true,
-  },
+  'advertserve': {},
 
   'adyoulike': {
     consentHandlingOverride: true,
